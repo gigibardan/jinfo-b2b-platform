@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd b2b-portal && npm run build",
-  "outputDirectory": "b2b-portal/.next",
-  "installCommand": "cd b2b-portal && npm install",
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD ./b2b-portal"
-}
