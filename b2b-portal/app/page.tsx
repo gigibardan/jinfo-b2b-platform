@@ -183,7 +183,7 @@ export default function HomePage() {
       {/* Hero Stats */}
       <div className="bg-gradient-to-r from-blue-600 to-orange-500 text-white py-8">
         <div className="max-w-7xl mx-auto px-4">
-          <h1 className="text-4xl font-bold mb-6">Portal B2BBB - Circuite Turistice</h1>
+          <h1 className="text-4xl font-bold mb-6">Portal B2BB - Circuite Turistice</h1>
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-4 text-center">
