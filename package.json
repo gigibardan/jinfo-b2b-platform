@@ -1,0 +1,8 @@
+{
+  "name": "jinfo-b2b-platform",
+  "scripts": {
+    "dev": "cd b2b-portal && npm run dev",
+    "build": "cd b2b-portal && npm run build",
+    "start": "cd b2b-portal && npm start"
+  }
+}
